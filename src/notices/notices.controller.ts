@@ -12,6 +12,7 @@ export class NoticesController {
         { title: 'test3 title', description: '테스트 글 입니다.' },
         { title: 'test4 title', description: '테스트 글 입니다.' },
         { title: 'test5 title', description: '테스트 글 입니다.' },
+        { title: 'test6 title', description: '테스트 글 입니다.222' },
       ],
     };
   }
